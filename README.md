@@ -57,7 +57,7 @@ pip install -r requirements.txt
 pip install rarfile pyminizip PyPDF2
 
 # Download the script
-wget https://raw.githubusercontent.com/yourusername/File-Finder-3697/main/file_finder_3697.py
+wget https://raw.githubusercontent.com/TermuxEx/File-Finder-3697/main/file_finder_3697.py
 ```
 
 ### Requirements File (requirements.txt)
