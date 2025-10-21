@@ -44,7 +44,7 @@ This tool is intended for **authorized security testing and educational purposes
 ### Method 1: Direct Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/File-Finder-3697.git
+git clone https://github.com/TermuxEx/File-Finder-3697.git
 cd File-Finder-3697
 
 # Install required packages
